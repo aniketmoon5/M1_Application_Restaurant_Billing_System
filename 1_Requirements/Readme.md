@@ -30,9 +30,9 @@ It provides the number of operations one can perform which helps the staff to us
 
 **Strengths:** 
 
-1.Cost Effective
+1.Bill Calculation is fast and accurate.
 
-2.Bill Calculation is fast and accurate.
+2.Easy to access.
 
 3.Shows past invoice records.
 
@@ -41,6 +41,8 @@ It provides the number of operations one can perform which helps the staff to us
 1.Cannot edit the order
 
 2.Correct name should be provided in order to find the invoice.
+
+3.Can be a bit expensive for small business owners.
 
 **Opportunities:**
 
