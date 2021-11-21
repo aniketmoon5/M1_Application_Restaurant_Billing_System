@@ -4,7 +4,7 @@ The project “Restaurant Billing System” is used to provide a computer-based 
 
 STATE OF ART:
 
-![](images/table.png)
+![](https://github.com/gauri2323/M1_Application_Restaurant_Billing_System/blob/main/6_ImagesAndVideos/table.png?raw=true)
 
 REQUIREMENTS:
 
