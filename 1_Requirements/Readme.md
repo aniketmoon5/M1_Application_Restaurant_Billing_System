@@ -1,8 +1,8 @@
-INTRODUCTION:
+**INTRODUCTION**:
 
 The project “Restaurant Billing System” is used to provide a computer-based billing system for an accurate computation of bills. It is a basic program written in C language whose main aim is to perform the process of ordering and billing of a Restaurant. This system has the capability to give an invoice to the customer in which GST is also included.  
 
-STATE OF ART:
+**STATE OF ART**:
 
 ![](https://github.com/gauri2323/M1_Application_Restaurant_Billing_System/blob/main/6_ImagesAndVideos/table.png?raw=true)
 
@@ -12,21 +12,21 @@ REQUIREMENTS:
 
 
 
-4W and 1H:
+**4W and 1H**:
 
-Why: To reduce the time, energy, and resources that was being consumed when performing a billing for the customer. By the help of this software, paper work is reduced. This saves both time and money.
+**Why**: To reduce the time, energy, and resources that was being consumed when performing a billing for the customer. By the help of this software, paper work is reduced. This saves both time and money.
 
-When: It will be deployed by 25th November 2021.
+**When**: It will be deployed by 25th November 2021.
 
-Who: The staff of the restaurant.
+**Who**: The staff of the restaurant.
 
-What:  It simplifies the operations like invoice generation, searching bills and so on as it is easier to access and execute.
+**What**:  It simplifies the operations like invoice generation, searching bills and so on as it is easier to access and execute.
 
-How:
+**How**:
 
 It provides the number of operations one can perform which helps the staff to use it easily.
 
-SWOT Analysis:
+**SWOT Analysis**:
 
 **Strengths:** 
 
