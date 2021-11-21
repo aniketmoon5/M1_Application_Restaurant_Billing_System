@@ -8,7 +8,7 @@ STATE OF ART:
 
 REQUIREMENTS:
 
-![](images/table2.png)
+![](https://github.com/gauri2323/M1_Application_Restaurant_Billing_System/blob/main/6_ImagesAndVideos/table2.png?raw=true)
 
 
 
