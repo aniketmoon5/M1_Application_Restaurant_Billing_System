@@ -5,8 +5,8 @@
 | Test_Id  |     Desciption       |  Expected_Input | Expected_output  | Actual_Output | Type_of_Test |
 | -------- |   --------------     |  -------------- | ---------------  | ------------- | -------------|
 | HLR_1    |  Generate Invoice    | BillHeader()    |       PASS       |      Pass     | Requrirement |
-|          |                      |   BillBody()    |                  |               |              |
-|          |                      |  BillFooter()   |                  |               |              |
+                                  |   BillBody()    |                                
+                                  |  BillFooter()   |                               
                                     
 ## Low Level Test Plan
 
