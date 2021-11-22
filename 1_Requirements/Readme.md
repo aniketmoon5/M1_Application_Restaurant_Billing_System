@@ -1,6 +1,13 @@
 ## INTRODUCTION:
 
-The project “Restaurant Billing System” is used to provide a computer-based billing system for an accurate computation of bills. It is a basic program written in C language whose main aim is to perform the process of ordering and billing of a Restaurant. This system has the capability to give an invoice to the customer in which GST is also included.  
+The project “Restaurant Billing System” is used to provide a computer-based billing system for an accurate computation of bills. It is a basic program written in C language whose main aim is to perform the process of ordering and billing of a Restaurant. This system has the capability to give an invoice to the customer in which GST is also included. 
+
+## FEATURES:
+1.Can generate invoices easily.
+
+2.Shows all the previous records if saved.
+
+3.Can access the system anytime.
 
 ## STATE OF ART:
 
