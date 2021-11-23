@@ -1,0 +1,17 @@
+3_Implementation/main.c:113:19: style: The scope of the variable 'tot' can be reduced. [variableScope]
+            float tot=0;
+                  ^
+3_Implementation/main.c:30:11: style: Local variable 'total' shadows outer variable [shadowVariable]
+    float total =0;
+          ^
+3_Implementation/main.c:21:9: note: Shadowed declaration
+    int total;
+        ^
+3_Implementation/main.c:30:11: note: Shadow variable
+    float total =0;
+          ^
+3_Implementation/main.c:21:9: style: Unused variable: total [unusedVariable]
+    int total;
+        ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
